@@ -293,7 +293,7 @@ _DISEASE_SYMPTOMS: dict[str, list[tuple[str, float]]] = {
         ("skin swelling", 0.75), ("crusting lesions", 0.70), ("skin darkening", 0.65),
         ("raw sensitive skin", 0.80),
     ],
-    # Haematological
+    # Hematological
     "Anemia": [
         ("fatigue", 0.92), ("weakness", 0.88), ("pale skin", 0.85),
         ("shortness of breath", 0.78), ("dizziness", 0.75), ("cold hands and feet", 0.70),
