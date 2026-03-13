@@ -1,0 +1,4 @@
+{
+    "chat.planAgent.defaultModel": "Claude Sonnet 4.6 (claude-code)",
+    "chat.checkpoints.showFileChanges": true
+}
